@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		295A302D1EEEBDBC00C33998 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 295A302C1EEEBDBC00C33998 /* main.cpp */; };
+		295A302D1EEEBDBC00C33998 /* main1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 295A302C1EEEBDBC00C33998 /* main1.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		295A30291EEEBDBC00C33998 /* Praktikum_6_MBV */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Praktikum_6_MBV; sourceTree = BUILT_PRODUCTS_DIR; };
-		295A302C1EEEBDBC00C33998 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		295A302C1EEEBDBC00C33998 /* main1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main1.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		295A302B1EEEBDBC00C33998 /* Praktikum_6_MBV */ = {
 			isa = PBXGroup;
 			children = (
-				295A302C1EEEBDBC00C33998 /* main.cpp */,
+				295A302C1EEEBDBC00C33998 /* main1.cpp */,
 			);
 			path = Praktikum_6_MBV;
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				295A302D1EEEBDBC00C33998 /* main.cpp in Sources */,
+				295A302D1EEEBDBC00C33998 /* main1.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -288,6 +288,7 @@
 				295A30321EEEBDBC00C33998 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
